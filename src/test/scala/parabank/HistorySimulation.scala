@@ -38,9 +38,16 @@ class HistorySimulation extends Simulation {
       http("GetAccountHistory")
         .get("/accounts/${accountId}/transactions?cb=${cb}")
         .check(status.is(200))
-        .check(jsonPath("$.transactions").exists)
+      .check(jsonPath("$[0].id").exists)
+      .check(bodyString.saveAs("resp"))
     )
     .pause(1)
+    .exec { session =>
+      if (System.getProperty("gatling.debug") == "true") {
+        println("RESP: " + session("resp").asOption[String].getOrElse("<no body>"))
+      }
+      session
+    }
 
   // 4 Load Scenario - Injection profile (closed model)
   val injectionProfile = Seq(
