@@ -36,3 +36,4 @@ class LoginTest extends Simulation{
     global.responseTime.mean.lt(2000),
     global.responseTime.mean.lt(5000)
   )
+}
