@@ -6,8 +6,8 @@ object Data{
     val password = "demo"
     val accountId = "54321"
 
-    val customerId = 12212
-    val loanAmount = 20
-    val fromAccountId = 12456
-    val loanDownPayment = 8
+    val customerId = "12212"
+    val loanAmount = "20"
+    val fromAccountId = "12456"
+    val loanDownPayment = "8"
 }
