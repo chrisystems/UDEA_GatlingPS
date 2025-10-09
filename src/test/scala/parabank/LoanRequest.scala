@@ -12,7 +12,7 @@ class LoanRequest extends Simulation{
     .acceptHeader("application/json") // Expect JSON now
     .check(status.is(200))
 
-    val scn = scenario("Solicitud de prestamo")
+    val scn = scenario("Solicitud de prestamo Loan")
     .exec(
       http("Request Loan")
         .post("/requestLoan")
@@ -20,7 +20,7 @@ class LoanRequest extends Simulation{
         .queryParam("amount", s"$loanAmount")
         .queryParam("downPayment", s"$loanDownPayment")
         .queryParam("fromAccountId", s"$fromAccountId")
-        .check(status.is(200))
+        .check(status.is(200)) 
     )
 
     setUp(
