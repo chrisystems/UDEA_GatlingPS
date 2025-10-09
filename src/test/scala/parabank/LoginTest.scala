@@ -2,7 +2,7 @@ package parabank
 
 import io.gatling.core.Predef._
 import io.gatling.http.Predef._
-import parabank.Data._
+import parabank.Data._ññ
 
 class LoginTest extends Simulation{
 
