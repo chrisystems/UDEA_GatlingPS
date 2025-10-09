@@ -5,4 +5,17 @@ object Data{
     val username = "john"
     val password = "demo"
     val accountId = "54321"
+    val customerId = "12212"
+    
+    val loanAmount = "20"
+    val fromAccountId = "12456"
+    val loanDownPayment = "8"
+
+    val amountBill = 25
+    val name = "Factura de la energia"
+    val street = "Calle 9"
+    val city = "Medellín"
+    val state = "Antioquia"
+    val zipCode = "050001"
+    val phoneNumber = "514122"
 }
