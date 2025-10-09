@@ -1,0 +1,17 @@
+<testsuite name="parabank.TransferTest" tests="5" errors="0" failures="5" time="0">
+<testcase name="Global: mean requests per second is greater than or equal to 150.0" status="false" time="0">
+  <failure type="Global">Actual value: 77.52808988764045</failure>
+</testcase>
+<testcase name="Global: mean of response time is less than or equal to 3000.0" status="false" time="0">
+  <failure type="Global">Actual value: 8152.0</failure>
+</testcase>
+<testcase name="Global: max of response time is less than or equal to 8000.0" status="false" time="0">
+  <failure type="Global">Actual value: 60005.0</failure>
+</testcase>
+<testcase name="Global: percentage of failed events is less than or equal to 0.0" status="false" time="0">
+  <failure type="Global">Actual value: 100.0</failure>
+</testcase>
+<testcase name="Global: 95th percentile of response time is less than or equal to 5000.0" status="false" time="0">
+  <failure type="Global">Actual value: 19232.0</failure>
+</testcase>
+</testsuite>

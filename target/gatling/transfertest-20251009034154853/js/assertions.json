@@ -1,0 +1,54 @@
+{
+  "simulation": "parabank.TransferTest",
+  "simulationId": "transfertest",
+  "start": 1759981314853,
+  "description": "",
+  "scenarios": ["Transfer Test - Carga Normal", "Transfer Test - Prueba de Estrés"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "mean requests per second",
+  "condition": "is greater than or equal to",
+  "expectedValues": [150.0],
+  "result": false,
+  "message": "Global: mean requests per second is greater than or equal to 150.0",
+  "actualValue": [77.52808988764045]
+},
+{
+  "path": "Global",
+  "target": "mean of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [3000.0],
+  "result": false,
+  "message": "Global: mean of response time is less than or equal to 3000.0",
+  "actualValue": [8152.0]
+},
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [8000.0],
+  "result": false,
+  "message": "Global: max of response time is less than or equal to 8000.0",
+  "actualValue": [60005.0]
+},
+{
+  "path": "Global",
+  "target": "percentage of failed events",
+  "condition": "is less than or equal to",
+  "expectedValues": [0.0],
+  "result": false,
+  "message": "Global: percentage of failed events is less than or equal to 0.0",
+  "actualValue": [100.0]
+},
+{
+  "path": "Global",
+  "target": "95th percentile of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [5000.0],
+  "result": false,
+  "message": "Global: 95th percentile of response time is less than or equal to 5000.0",
+  "actualValue": [19232.0]
+}
+  ]
+}

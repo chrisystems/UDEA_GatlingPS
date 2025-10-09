@@ -410,3 +410,85 @@ INFORMACIÃ“N: Unsupported notification method: $/setTrace
 2025.10.08 20:52:00 INFO  Shutting down server
 2025.10.08 20:52:00 INFO  shutting down Metals
 2025.10.08 20:52:00 INFO  Exiting server
+2025.10.08 20:52:26 INFO  Started: Metals version 1.6.2 in folders 'C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS' for client Visual Studio Code 1.103.2.
+2025.10.08 20:52:26 INFO  time: initialize in 0.11s
+2025.10.08 20:53:01 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:08 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+oct. 08, 2025 8:53:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.10.08 20:53:08 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+oct. 08, 2025 8:53:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+oct. 08, 2025 8:53:08 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.10.08 20:53:08 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:09 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:09 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+oct. 08, 2025 8:53:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+oct. 08, 2025 8:53:10 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2025.10.08 20:53:09 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:11 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:11 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+oct. 08, 2025 8:53:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+oct. 08, 2025 8:53:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+oct. 08, 2025 8:53:11 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2025.10.08 20:53:11 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:11 WARN  no build target for: C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2025.10.08 20:53:15 INFO  time: code lens generation in 3.55s
+2025.10.08 20:53:16 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:19 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:23 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:24 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2025.10.08 20:53:23 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:24 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2025.10.08 20:53:23 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:23 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:53:24 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2025.10.08 20:53:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:27 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:34 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:53:34 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:38 WARN  no build target for: C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2025.10.08 20:54:38 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:38 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:38 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:39 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:42 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:42 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:42 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:54:43 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+oct. 08, 2025 8:54:51 P. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.10.08 20:55:36 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:57:23 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 20:57:23 WARN  no build target for: C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2025.10.08 21:16:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:25 WARN  no build target for: C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala
+2025.10.08 21:16:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:25 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:26 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\Data.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:29 WARN  no build target for: C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala
+2025.10.08 21:16:29 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:29 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:29 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:37 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:37 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.10.08 21:16:37 INFO  no build target found for C:\Users\ASUS\Desktop\Pruebas de software [Electiva LINEA ENFASÍS IN DE SOF Y SIS DE IN]\Entregas\Practica 4\UDEA_GatlingPS\src\test\scala\parabank\LoginTest.scala. Using presentation compiler with project's scala-library version: 3.3.6

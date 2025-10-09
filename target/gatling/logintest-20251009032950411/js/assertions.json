@@ -1,0 +1,36 @@
+{
+  "simulation": "parabank.LoginTest",
+  "simulationId": "logintest",
+  "start": 1759980590411,
+  "description": "",
+  "scenarios": ["Login Test - Carga Normal", "Login Test - Carga Pico"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "mean of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [2000.0],
+  "result": true,
+  "message": "Global: mean of response time is less than or equal to 2000.0",
+  "actualValue": [376.0]
+},
+{
+  "path": "Global",
+  "target": "max of response time",
+  "condition": "is less than or equal to",
+  "expectedValues": [5000.0],
+  "result": false,
+  "message": "Global: max of response time is less than or equal to 5000.0",
+  "actualValue": [5484.0]
+},
+{
+  "path": "Global",
+  "target": "percentage of failed events",
+  "condition": "is less than or equal to",
+  "expectedValues": [1.0],
+  "result": true,
+  "message": "Global: percentage of failed events is less than or equal to 1.0",
+  "actualValue": [0.0]
+}
+  ]
+}
