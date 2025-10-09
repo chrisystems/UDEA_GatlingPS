@@ -1,0 +1,14 @@
+<testsuite name="parabank.LoanRequestTest" tests="4" errors="0" failures="4" time="0">
+<testcase name="Global: mean of response time is less than or equal to 5000.0" status="false" time="0">
+  <failure type="Global">Actual value: 10187.0</failure>
+</testcase>
+<testcase name="Global: max of response time is less than or equal to 10000.0" status="false" time="0">
+  <failure type="Global">Actual value: 60016.0</failure>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than or equal to 98.0" status="false" time="0">
+  <failure type="Global">Actual value: 22.966829432564403</failure>
+</testcase>
+<testcase name="Global: percentage of failed events is less than or equal to 2.0" status="false" time="0">
+  <failure type="Global">Actual value: 77.03317056743559</failure>
+</testcase>
+</testsuite>
