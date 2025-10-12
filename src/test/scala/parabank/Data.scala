@@ -1,7 +1,7 @@
 package parabank
 
 object Data{
-    val url= "https://para.testar.org/parabank/services/bank"
+    val url= "https://parabank.parasoft.com/parabank/services/bank"
     val username = "john"
     val password = "demo"
     val accountId = "54321"
@@ -19,4 +19,5 @@ object Data{
     val zipCode = "050001"
     val phoneNumber = "514122"
 }
+
 
