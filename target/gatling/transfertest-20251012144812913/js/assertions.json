@@ -1,9 +1,9 @@
 {
   "simulation": "parabank.TransferTest",
   "simulationId": "transfertest",
-  "start": 1760036212474,
+  "start": 1760280492913,
   "description": "",
-  "scenarios": ["Transferencias simultaneas"],
+  "scenarios": ["Transferencias simultaneas válidas"],
   "assertions": [
 {
   "path": "Global",
@@ -12,25 +12,25 @@
   "expectedValues": [150.0],
   "result": false,
   "message": "Global: mean requests per second is greater than or equal to 150.0",
-  "actualValue": [146.31147540983608]
+  "actualValue": [147.29508196721312]
 },
 {
   "path": "Global",
   "target": "percentage of successful events",
   "condition": "is greater than or equal to",
-  "expectedValues": [98.0],
-  "result": false,
-  "message": "Global: percentage of successful events is greater than or equal to 98.0",
-  "actualValue": [0.0]
+  "expectedValues": [95.0],
+  "result": true,
+  "message": "Global: percentage of successful events is greater than or equal to 95.0",
+  "actualValue": [100.0]
 },
 {
   "path": "Global",
   "target": "percentage of failed events",
   "condition": "is less than or equal to",
-  "expectedValues": [2.0],
-  "result": false,
-  "message": "Global: percentage of failed events is less than or equal to 2.0",
-  "actualValue": [100.0]
+  "expectedValues": [5.0],
+  "result": true,
+  "message": "Global: percentage of failed events is less than or equal to 5.0",
+  "actualValue": [0.0]
 }
   ]
 }

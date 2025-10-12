@@ -1,0 +1,11 @@
+<testsuite name="parabank.TransferTest" tests="3" errors="0" failures="1" time="0">
+<testcase name="Global: mean requests per second is greater than or equal to 150.0" status="false" time="0">
+  <failure type="Global">Actual value: 147.29508196721312</failure>
+</testcase>
+<testcase name="Global: percentage of successful events is greater than or equal to 95.0" status="true" time="0">
+  <system-out>Global: percentage of successful events is greater than or equal to 95.0</system-out>
+</testcase>
+<testcase name="Global: percentage of failed events is less than or equal to 5.0" status="true" time="0">
+  <system-out>Global: percentage of failed events is less than or equal to 5.0</system-out>
+</testcase>
+</testsuite>

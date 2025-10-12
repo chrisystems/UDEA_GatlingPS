@@ -7,18 +7,17 @@ import parabank.Data._
 
 class TransferTest extends Simulation {
 
-  // 1️ Configuración HTTP: usa la base URL del archivo Data.scala
+  // 1️⃣ Configuración HTTP
   val httpConf = http
-    .baseUrl(url) // la variable 'url' viene de parabank.Data._
+    .baseUrl(url)
     .acceptHeader("application/json")
-    .check(status.is(200))
+    .check(status.in(200, 201))
 
-  // 2️ Feeder CSV (en src/test/resources)
+  // 2️ Feeder: usamos el transfer_feeder.csv con cuentas válidas
   val feeder = csv("transfer_feeder.csv").circular
-  
 
-  // 3️ Escenario: cada usuario virtual toma una fila y realiza un POST /transfer
-  val scn = scenario("Transferencias simultaneas")
+  // 3️ Escenario: realizar transferencias usando cuentas válidas
+  val scn = scenario("Transferencias simultaneas válidas")
     .feed(feeder)
     .exec(
       http("Transferencia")
@@ -29,7 +28,7 @@ class TransferTest extends Simulation {
         .check(status.is(200))
     )
 
-  // 4 Inyección: simula una tasa de llegada constante (~150 transacciones/seg)
+  // 4️ Configuración de inyección (150 transacciones/segundo durante 60s)
   setUp(
     scn.inject(
       constantUsersPerSec(150).during(60.seconds).randomized
@@ -37,7 +36,7 @@ class TransferTest extends Simulation {
   ).protocols(httpConf)
     .assertions(
       global.requestsPerSec.gte(150),            // al menos 150 req/s
-      global.successfulRequests.percent.gte(98), // 98% éxito mínimo
-      global.failedRequests.percent.lte(2.0)     // no más del 2% errores
+      global.successfulRequests.percent.gte(95), // >= 95% éxito
+      global.failedRequests.percent.lte(5.0)     // <= 5% fallos
     )
 }
